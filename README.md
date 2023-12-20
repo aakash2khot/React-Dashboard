@@ -14,7 +14,7 @@ git clone https://github.com/aakash2khot/React-Dashboard
 
 ```bash
 cd React-Dashboard
-npm install
+npm run dev
 ```
 
 4. To Start:
